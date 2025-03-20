@@ -15,6 +15,7 @@ Basic installation of the base script
 
 ### Discord Webhook
 Everytime a flagged person joins your game it will use the discord webhook to say inside a discord channel who was flagged, for what the player was flagged etc.
+
 If you don't wanna use Discord Webhook, leave the "local DiscordWebhookUrl" blank
 1. Create a new discord webhook
 2. Put the Discord Wenhook Url inside "local DiscordWebhookUrl" (you can find it in the script)
