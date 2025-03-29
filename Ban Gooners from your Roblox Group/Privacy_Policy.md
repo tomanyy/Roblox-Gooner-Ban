@@ -1,5 +1,4 @@
 ## Privacy Policy for Ro-GroupCatcher
-**Privacy Policy for Roblox OAuth Chrome Extension**
 
 Last Updated: **March 29, 2025**
 
