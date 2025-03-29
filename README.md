@@ -30,3 +30,12 @@ Basic installation of the discord bot script
 13. Insert the token into the program 
 14. Type in the discord user ids that ro-cleaner has gave you (you can use AI to make from a file that shows the username of a user and also the server that the user only say out the discord user ids)
 15. After the scan, all of the roblox user ids from that discord user ids are going to be in a text file
+
+### Use the roblox user ids from ro-cleaner to ban the users
+Its literally in the name dude
+1. Create a [new repo](https://github.com/new) on github and name it whatever you want (also you dont make it create a readme file, also make the repo public)
+2. Click create a new file
+3. Call it ban_list.txt or whatever (remember to make it .txt)
+4. Click commit changes and then open the file
+5. Click the raw button and then copy the URL of the site
+6. In the roblox script value "PlayerBanlistUrls", enter there the raw URL
