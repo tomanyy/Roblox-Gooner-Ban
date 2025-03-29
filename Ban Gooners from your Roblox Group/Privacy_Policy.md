@@ -1,8 +1,8 @@
-## Privacy Policy for Ro-GroupCatcher
+## Privacy Policy for Ro-GroupBan
 
 Last Updated: **March 29, 2025**
 
-This Privacy Policy explains how we collect, use, and safeguard your data when you use the Roblox OAuth Chrome Extension ("Extension"). We take your privacy seriously, and we are committed to protecting your personal information.
+This Privacy Policy explains how we collect, use, and safeguard your data when you use the Ro-GroupBan ("Extension"). We take your privacy seriously, and we are committed to protecting your personal information.
 
 ## 1. Information We Collect
 When you use our Extension, we may collect and store the following types of data:
