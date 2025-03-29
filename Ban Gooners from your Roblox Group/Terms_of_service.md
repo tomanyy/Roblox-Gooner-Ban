@@ -1,7 +1,7 @@
 # Terms of Service for Ro-GroupBan
 Last Updated: **March 29, 2025**
 
-Welcome to the Roblox OAuth Chrome Extension ("Extension"). By installing and using this Extension, you agree to comply with and be bound by the following terms and conditions ("Terms of Service" or "Agreement"). Please read these terms carefully before using the Extension. If you do not agree to these terms, do not install or use the Extension.
+Welcome to the Ro-GroupBan ("Extension"). By installing and using this Extension, you agree to comply with and be bound by the following terms and conditions ("Terms of Service" or "Agreement"). Please read these terms carefully before using the Extension. If you do not agree to these terms, do not install or use the Extension.
 
 ## 1. Acceptance of Terms
 By accessing or using the Extension, you agree to be bound by these Terms of Service and any future updates or changes. If you do not agree to these terms, you must uninstall the Extension and stop using it immediately.
