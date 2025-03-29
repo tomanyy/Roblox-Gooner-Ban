@@ -1,5 +1,5 @@
 -- Hello hello!
--- This is the script that bans bad people from your game
+-- This is the script that bans bad people and their friends from your game
 -- Put inside ServerScriptService to make this script work!!!
 -- Also remember to have HTTP requests enabled in your game
 
@@ -83,6 +83,21 @@ local function checkPlayer(player)
     if #flaggedGroups > 0 then
         player:Kick("You have been kicked due to association with banned groups.\n\nFlagged Groups: " .. table.concat(flaggedGroups, ", "))
         return
+    end
+
+    local success, friends = pcall(function()
+        return Players:GetFriendsAsync(player.UserId)
+    end)
+    
+    if success then
+        for _, friend in pairs(friends:GetCurrentPage()) do
+            if bannedUsers[friend.Id] then
+                player:Kick("You have been kicked for being friends with a banned user.")
+                return
+            end
+        end
+    else
+        warn("Failed to check friends list for", player.Name)
     end
 
     task.wait(3) -- Give time for character to load
