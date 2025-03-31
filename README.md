@@ -2,8 +2,8 @@
 Do you hate gooners playing your roblox game?
 Well this is a perfect tool for you!
 
-If you dont want gooners going around in your game you can use this script today to ban them
-This repo has all of the ban lists and scripts that are usable in your game
+If you dont want gooners going around in your game you can use this script today to ban them.
+This repo has all of the ban lists and scripts that are usable in your game or on your discord server.
 
 ## Tutorial
 ### Roblox Script Installation 
